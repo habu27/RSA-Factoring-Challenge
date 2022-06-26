@@ -33,5 +33,3 @@ This task is the same as task 0, except:
 -   There is only one number in the files
 
 How far can you go in less than 5 seconds?
-
--   Read:[RSA Factoring Challenge](https://intranet.hbtn.io/rltoken/8F5ClnjOFgDcNZXxeyrHxg "RSA Factoring Challenge")
